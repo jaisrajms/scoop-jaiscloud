@@ -6,14 +6,14 @@
             "bin": [
                 "jaiscloud-aws.exe"
             ],
-            "hash": "b00dd55d966d2bd97d8759c06442816e12c198f7744118b7cd42989095e70455"
+            "hash": "14e7f50016703180b46ae575c5db28399a52c8b577c0d2f646e519862f496482"
         },
         "arm64": {
             "url": "https://github.com/jaisrajms/jaiscloud/releases/download/v0.1.0-alpha.1/jaiscloud-aws_0.1.0-alpha.1_windows_arm64.zip",
             "bin": [
                 "jaiscloud-aws.exe"
             ],
-            "hash": "1ef5dc5519b0f321dd3f6cdc102cba91328ff9cec3069e297ae89205280d06ce"
+            "hash": "897cff50eba2f970c629e5b9abefa38f6db47fdc0e12d3e566f38045f3fbebee"
         }
     },
     "homepage": "https://github.com/jaisrajms/jaiscloud",

@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0-alpha.1",
+    "version": "0.1.0-alpha.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jaisrajms/jaiscloud/releases/download/v0.1.0-alpha.1/jaiscloud-aws_0.1.0-alpha.1_windows_amd64.zip",
+            "url": "https://github.com/jaisrajms/jaiscloud/releases/download/v0.1.0-alpha.2/jaiscloud-aws_0.1.0-alpha.2_windows_amd64.zip",
             "bin": [
                 "jaiscloud-aws.exe"
             ],
-            "hash": "74bf96d0021a22f604aa19ead294c327f4024680213d6b743be990debcf82b45"
+            "hash": "51f2996de262ede6cfe8d81092f8aca569ede68ecdf747af9673156157894cc1"
         },
         "arm64": {
-            "url": "https://github.com/jaisrajms/jaiscloud/releases/download/v0.1.0-alpha.1/jaiscloud-aws_0.1.0-alpha.1_windows_arm64.zip",
+            "url": "https://github.com/jaisrajms/jaiscloud/releases/download/v0.1.0-alpha.2/jaiscloud-aws_0.1.0-alpha.2_windows_arm64.zip",
             "bin": [
                 "jaiscloud-aws.exe"
             ],
-            "hash": "2f16089198ba1cb7505bb55756d5f6ea7aa77d8ebde5a5c481a90bbd99e9e382"
+            "hash": "f6d0b8ca1625f0fda01fed0a8bce5441132ee0e647d00faa4318f3ad4b213d21"
         }
     },
     "homepage": "https://github.com/jaisrajms/jaiscloud",

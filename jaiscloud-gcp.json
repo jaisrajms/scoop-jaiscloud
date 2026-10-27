@@ -1,0 +1,22 @@
+{
+    "version": "0.1.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/jaisrajms/jaiscloud/releases/download/v0.1.1/jaiscloud-gcp_0.1.1_windows_amd64.zip",
+            "bin": [
+                "jaiscloud-gcp.exe"
+            ],
+            "hash": "83cbcbf70d82f7b882c6068a5c206e2a08e31c73d0a7c381c0dc0435ebec04c4"
+        },
+        "arm64": {
+            "url": "https://github.com/jaisrajms/jaiscloud/releases/download/v0.1.1/jaiscloud-gcp_0.1.1_windows_arm64.zip",
+            "bin": [
+                "jaiscloud-gcp.exe"
+            ],
+            "hash": "7d759b6f70035d2b8ba2f9fd6da69bd337d3c634b2e34889826be99fba3c3acb"
+        }
+    },
+    "homepage": "https://github.com/jaisrajms/jaiscloud",
+    "license": "Apache-2.0",
+    "description": "Local GCP emulator — GCP wire-protocol compatible"
+}
